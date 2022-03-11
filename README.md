@@ -22,9 +22,11 @@
     <br />
     <br />
     <br />
-   
-  </p>
-  <h3>Realizar las siguientes actividades</h3>
+ </p>
+ </div>
+ <hr>
+  <div>
+  <h3>Actividades</h3>
 <ul>
 	<li>Realizar un fork al repositorio</li>
 	<li>Clonar el repositorio en sus máquinas locales</li>
