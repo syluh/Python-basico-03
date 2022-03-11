@@ -24,7 +24,16 @@
     <br />
    
   </p>
+  <h3>Realizar las siguientes actividades</h3>
 <ul>
-	<li>Si puede usar la documentación oficial para poder revisar información de algún método que se necesite</li>
+	<li>Realizar un fork al repositorio</li>
+	<li>Clonar el repositorio en sus máquinas locales</li>
+	<li>Activar un entorno de python en sus máquinas locales</li>
+	<li>Ejecutar: jupyter notebook en el cmd</li>
+	<li>Realizar lo propuesto en el notebook: Ejemplo-Pandas-01.ipynb</li>
+	<li>Realizar lo propuesto en el notebook: Ejemplo-Pandas-02.ipynb</li>
+	<li>Realizar lo propuesto en el notebook: Ejemplo-Pandas-03.ipynb</li>
+	<li>Se puede usar la documentación oficial para poder revisar información de algún método que se necesite</li>
+	<li>Subir los cambios de sus máquinas locales al GitHub</li>
 </ul>
 </div>
